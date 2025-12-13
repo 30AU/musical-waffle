@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Thornbill"
+  avatar : "/assets/images/yellow-tb.jpg"
+  bio    : "Collection like a Thornbills nest - "bark shreds, grass, tendrils, moss, lichen, high in foliage."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
