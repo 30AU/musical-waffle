@@ -9,8 +9,9 @@ tags:
   - standard
 ---
 
-Welcome to the Nest: Yellow Thornbills
-High in the foliage, where sunlight filters through leaves and the air hums with quiet life, the Yellow Thornbill (Acanthiza nana) makes its home. Its nest is a delicate architecture of bark shreds, grass, tendrils, moss, and lichen—an intricate collection of fragments woven into a sanctuary. This blog, too, is a nest: a gathering place for ideas, observations, and reflections, carefully assembled from the textures of knowledge and curiosity.
+**Welcome to the Nest: Yellow Thornbills**
+
+High in the foliage, where sunlight filters through leaves and the air hums with quiet life, the Yellow Thornbill _Acanthiza nana_ makes its home. Its nest is a delicate architecture of bark shreds, grass, tendrils, moss, and lichen—an intricate collection of fragments woven into a sanctuary. This blog, too, is a nest: a gathering place for ideas, observations, and reflections, carefully assembled from the textures of knowledge and curiosity.
 
 <!--more-->
 
