@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Thornbill"
   avatar : "/assets/images/yellow-tb.jpg"
-  bio    : "Collection like a Thornbills nest - "bark shreds, grass, tendrils, moss, lichen, high in foliage."
+  bio    : "Thornbills nest collection - bark shreds, grass, tendrils, moss, lichen, high in foliage"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
